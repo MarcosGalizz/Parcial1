@@ -1,0 +1,24 @@
+### GET todos los videojuegos
+
+GET http://localhost:3000/api/v1/videojuegos
+
+
+### GET un videojuego por id
+
+GET http://localhost:3000/api/v1/videojuegos/1
+
+### GET un videojuego con un id que no existe 
+
+GET http://localhost:3000/api/v1/videojuegos/20
+
+### GET un id no entero
+
+GET http://localhost:3000/api/v1/videojuegos/abc
+
+### GET un id decimal
+GET http://localhost:3000/api/v1/videojuegos/1.5
+
+
+### GET contar stock por género
+
+GET http://localhost:3000/contar-stock-por-genero

@@ -1,0 +1,17 @@
+[
+  { "id": 1,  "titulo": "The Legend of Zelda: Tears of the Kingdom", "genero": "Aventura",   "plataforma": "Nintendo Switch", "precio": 69999, "stock": 12 },
+  { "id": 2,  "titulo": "God of War Ragnarök",                       "genero": "Acción",     "plataforma": "PlayStation 5",   "precio": 64999, "stock": 8 },
+  { "id": 3,  "titulo": "Forza Horizon 5",                           "genero": "Carreras",   "plataforma": "Xbox Series X",   "precio": 54999, "stock": 5 },
+  { "id": 4,  "titulo": "FC 25",                                     "genero": "Deportes",   "plataforma": "PlayStation 5",   "precio": 59999, "stock": 20 },
+  { "id": 5,  "titulo": "Super Mario Bros. Wonder",                  "genero": "Plataformas","plataforma": "Nintendo Switch", "precio": 62999, "stock": 15 },
+  { "id": 6,  "titulo": "Elden Ring",                                "genero": "RPG",        "plataforma": "PC",              "precio": 49999, "stock": 0 },
+  { "id": 7,  "titulo": "Hollow Knight",                             "genero": "Metroidvania","plataforma": "PC",             "precio": 12999, "stock": 30 },
+  { "id": 8,  "titulo": "Mortal Kombat 1",                           "genero": "Lucha",      "plataforma": "Xbox Series X",   "precio": 57999, "stock": 3 },
+  { "id": 9,  "titulo": "Minecraft",                                 "genero": "Sandbox",    "plataforma": "PC",              "precio": 19999, "stock": 25 },
+  { "id": 10, "titulo": "Resident Evil 4 Remake",                    "genero": "Terror",     "plataforma": "PlayStation 5",   "precio": 52999, "stock": 6 },
+  { "id": 11, "titulo": "Mario Kart 8 Deluxe",                       "genero": "Carreras",   "plataforma": "Nintendo Switch", "precio": 59999, "stock": 18 },
+  { "id": 12, "titulo": "Halo Infinite",                             "genero": "Shooter",    "plataforma": "Xbox Series X",   "precio": 39999, "stock": 2 },
+  { "id": 13, "titulo": "Stardew Valley",                            "genero": "Simulación", "plataforma": "PC",              "precio": 8999,  "stock": 40 },
+  { "id": 14, "titulo": "Spider-Man 2",                              "genero": "Acción",     "plataforma": "PlayStation 5",   "precio": 66999, "stock": 0 },
+  { "id": 15, "titulo": "Pokémon Escarlata",                         "genero": "RPG",        "plataforma": "Nintendo Switch", "precio": 63999, "stock": 10 }
+]

@@ -1,0 +1,17 @@
+{
+  "proceso": "Contar stock por género",
+  "resultado": {
+    "Aventura": 12,
+    "Acción": 8,
+    "Carreras": 23,
+    "Deportes": 20,
+    "Plataformas": 15,
+    "RPG": 10,
+    "Metroidvania": 30,
+    "Lucha": 3,
+    "Sandbox": 25,
+    "Terror": 6,
+    "Shooter": 2,
+    "Simulación": 40
+  }
+}
